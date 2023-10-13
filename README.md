@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">osTicket - Prerequisites and Installation</h1>
-	<p>This readme.md serves as an overview of the process by which I set-up the free ticketing softare, osTicket. It involved the use of multiple different technologies, including virtual desktops and Internet Information Services. By setting up this software properly, we can move forward and use it to learn how ticketing software </p>
+	<p>This readme.md serves as an overview of the process by which I set-up the free ticketing softare, osTicket. It involved the use of multiple different technologies, including virtual desktops and Internet Information Services. By setting up this software properly, we can move forward and use it to learn how ticketing software functions and explore the concepts of tickets in general.</p>
 
 <h2 align="center">Environments and Technologies Used</h2>
 
